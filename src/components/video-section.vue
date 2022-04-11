@@ -1,35 +1,331 @@
 <template>
-  <div class="">
-    <div class="ml-5 grid-cols-1">
-      <a href="#">
-        <img id="img" class="style-scope yt-img-shadow w-72" alt="" width="246" src="https://i.ytimg.com/vi/EYyy10tafPY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLBh57EKpXinQgfK49WZXNCT6DQs7A">
-      </a>
+ <div class="flex inline-flex grid grid-cols-4 ml-0">
+   <div class="mx-auto ml-5 mr-5 mt-8">
+     <img src="https://i.ytimg.com/vi/683kLxTW8dE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCOl8BNCJV1Sr_S6IaFcQzhehNGQ" class="w-72">
+     <div class="mt-3 flex ">
+       <div>
+         <img id="img" class="rounded-full w-9" alt="" width="48" src="https://yt3.ggpht.com/6XyUdt2atfeWKZvL1OoEJYYOKqsJJDvXnz2IoY5uraC1YvoqKu9CTHWOKY58Azx_DLcbj_Y1lA=s68-c-k-c0x00ffffff-no-rj">
+       </div>
 
-     <div>
-         <div class="items-center">
-           <img id="img" class="style-scope rounded-full w-11 mt-2" width="80" alt="" src="https://yt3.ggpht.com/dx2NIgXXoqHHi8h8tUiNZqcgB0dcCzT8f9PJsA6M2LtYkO62eS7xtPc3qxneWylV2eDIvrfd=s176-c-k-c0x00ffffff-no-rj">
-            <div>
-              <div>Barcelona - Galatasaray (0-0) Maç Özeti | Uefa Avrupa Ligi Son 16 Turu 1. Maç</div>
+       <div class="ml-3">
+         <div class="font-bold text-left text-sm">Elektrikli Arac Nasil Sarj Edilir? -DC Hizli Sarj</div>
+         <div class="text-xs text-left mt-1">Her Telden</div>
+         <div class="flex items-center space-x-2 text-xs mt-1">
+           <div>590 görüntüleme</div>
+           <div class="mb-1 font-bold">.</div>
+           <div>21 saat önce</div>
+         </div>
+       </div>
 
-              <div class="flex mt-6">
-                <div>Exxenspor</div>
-                <div class="fill-current text-white w-3.5"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,2C6.5,2,2,6.5,2,12c0,5.5,4.5,10,10,10s10-4.5,10-10C22,6.5,17.5,2,12,2z M9.8,17.3l-4.2-4.1L7,11.8l2.8,2.7L17,7.4 l1.4,1.4L9.8,17.3z" class="style-scope yt-icon"></path></g></svg></div>
-              </div>
+     </div>
 
-            </div>
+   </div>
+   <div class="mx-auto ml-5 mr-5 mt-8">
+     <img src="https://i.ytimg.com/vi/683kLxTW8dE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCOl8BNCJV1Sr_S6IaFcQzhehNGQ" class="w-72">
+     <div class="mt-3 flex ">
+       <div>
+         <img id="img" class="rounded-full w-9" alt="" width="48" src="https://yt3.ggpht.com/6XyUdt2atfeWKZvL1OoEJYYOKqsJJDvXnz2IoY5uraC1YvoqKu9CTHWOKY58Azx_DLcbj_Y1lA=s68-c-k-c0x00ffffff-no-rj">
+       </div>
+
+       <div class="ml-3">
+         <div class="font-bold text-left text-sm">Elektrikli Arac Nasil Sarj Edilir? -DC Hizli Sarj</div>
+         <div class="text-xs text-left mt-1">Her Telden</div>
+         <div class="flex items-center space-x-2 text-xs mt-1">
+           <div>590 görüntüleme</div>
+           <div class="mb-1 font-bold">.</div>
+           <div>21 saat önce</div>
+         </div>
+       </div>
+
+     </div>
+
+   </div>
+   <div class="mx-auto ml-5 mr-5 mt-8">
+     <img src="https://i.ytimg.com/vi/683kLxTW8dE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCOl8BNCJV1Sr_S6IaFcQzhehNGQ" class="w-72">
+     <div class="mt-3 flex ">
+       <div>
+         <img id="img" class="rounded-full w-9" alt="" width="48" src="https://yt3.ggpht.com/6XyUdt2atfeWKZvL1OoEJYYOKqsJJDvXnz2IoY5uraC1YvoqKu9CTHWOKY58Azx_DLcbj_Y1lA=s68-c-k-c0x00ffffff-no-rj">
+       </div>
+
+       <div class="ml-3">
+         <div class="font-bold text-left text-sm">Elektrikli Arac Nasil Sarj Edilir? -DC Hizli Sarj</div>
+         <div class="text-xs text-left mt-1">Her Telden</div>
+         <div class="flex items-center space-x-2 text-xs mt-1">
+           <div>590 görüntüleme</div>
+           <div class="mb-1 font-bold">.</div>
+           <div>21 saat önce</div>
+         </div>
+       </div>
+
+     </div>
+
+   </div>
+   <div class="mx-auto ml-5 mr-5 mt-8">
+     <img src="https://i.ytimg.com/vi/683kLxTW8dE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCOl8BNCJV1Sr_S6IaFcQzhehNGQ" class="w-72">
+     <div class="mt-3 flex ">
+       <div>
+         <img id="img" class="rounded-full w-9" alt="" width="48" src="https://yt3.ggpht.com/6XyUdt2atfeWKZvL1OoEJYYOKqsJJDvXnz2IoY5uraC1YvoqKu9CTHWOKY58Azx_DLcbj_Y1lA=s68-c-k-c0x00ffffff-no-rj">
+       </div>
+
+       <div class="ml-3">
+         <div class="font-bold text-left text-sm">Elektrikli Arac Nasil Sarj Edilir? -DC Hizli Sarj</div>
+         <div class="text-xs text-left mt-1">Her Telden</div>
+         <div class="flex items-center space-x-2 text-xs mt-1">
+           <div>590 görüntüleme</div>
+           <div class="mb-1 font-bold">.</div>
+           <div>21 saat önce</div>
+         </div>
+       </div>
+
+     </div>
+
+   </div>
+   <div class="mx-auto ml-5 mr-5 mt-8">
+     <img src="https://i.ytimg.com/vi/683kLxTW8dE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCOl8BNCJV1Sr_S6IaFcQzhehNGQ" class="w-72">
+     <div class="mt-3 flex ">
+       <div>
+         <img id="img" class="rounded-full w-9" alt="" width="48" src="https://yt3.ggpht.com/6XyUdt2atfeWKZvL1OoEJYYOKqsJJDvXnz2IoY5uraC1YvoqKu9CTHWOKY58Azx_DLcbj_Y1lA=s68-c-k-c0x00ffffff-no-rj">
+       </div>
+
+       <div class="ml-3">
+         <div class="font-bold text-left text-sm">Elektrikli Arac Nasil Sarj Edilir? -DC Hizli Sarj</div>
+         <div class="text-xs text-left mt-1">Her Telden</div>
+         <div class="flex items-center space-x-2 text-xs mt-1">
+           <div>590 görüntüleme</div>
+           <div class="mb-1 font-bold">.</div>
+           <div>21 saat önce</div>
+         </div>
+       </div>
+
+     </div>
+
+   </div>
+   <div class="mx-auto ml-5 mr-5 mt-8">
+     <img src="https://i.ytimg.com/vi/683kLxTW8dE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCOl8BNCJV1Sr_S6IaFcQzhehNGQ" class="w-72">
+     <div class="mt-3 flex ">
+       <div>
+         <img id="img" class="rounded-full w-9" alt="" width="48" src="https://yt3.ggpht.com/6XyUdt2atfeWKZvL1OoEJYYOKqsJJDvXnz2IoY5uraC1YvoqKu9CTHWOKY58Azx_DLcbj_Y1lA=s68-c-k-c0x00ffffff-no-rj">
+       </div>
+
+       <div class="ml-3">
+         <div class="font-bold text-left text-sm">Elektrikli Arac Nasil Sarj Edilir? -DC Hizli Sarj</div>
+         <div class="text-xs text-left mt-1">Her Telden</div>
+         <div class="flex items-center space-x-2 text-xs mt-1">
+           <div>590 görüntüleme</div>
+           <div class="mb-1 font-bold">.</div>
+           <div>21 saat önce</div>
+         </div>
+       </div>
+
+     </div>
+
+   </div>
+   <div class="mx-auto ml-5 mr-5 mt-8">
+     <img src="https://i.ytimg.com/vi/683kLxTW8dE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCOl8BNCJV1Sr_S6IaFcQzhehNGQ" class="w-72">
+     <div class="mt-3 flex ">
+       <div>
+         <img id="img" class="rounded-full w-9" alt="" width="48" src="https://yt3.ggpht.com/6XyUdt2atfeWKZvL1OoEJYYOKqsJJDvXnz2IoY5uraC1YvoqKu9CTHWOKY58Azx_DLcbj_Y1lA=s68-c-k-c0x00ffffff-no-rj">
+       </div>
+
+       <div class="ml-3">
+         <div class="font-bold text-left text-sm">Elektrikli Arac Nasil Sarj Edilir? -DC Hizli Sarj</div>
+         <div class="text-xs text-left mt-1">Her Telden</div>
+         <div class="flex items-center space-x-2 text-xs mt-1">
+           <div>590 görüntüleme</div>
+           <div class="mb-1 font-bold">.</div>
+           <div>21 saat önce</div>
+         </div>
+       </div>
+
+     </div>
+
+   </div>
+   <div class="mx-auto ml-5 mr-5 mt-8">
+     <img src="https://i.ytimg.com/vi/683kLxTW8dE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCOl8BNCJV1Sr_S6IaFcQzhehNGQ" class="w-72">
+     <div class="mt-3 flex ">
+       <div>
+         <img id="img" class="rounded-full w-9" alt="" width="48" src="https://yt3.ggpht.com/6XyUdt2atfeWKZvL1OoEJYYOKqsJJDvXnz2IoY5uraC1YvoqKu9CTHWOKY58Azx_DLcbj_Y1lA=s68-c-k-c0x00ffffff-no-rj">
+       </div>
+
+       <div class="ml-3">
+         <div class="font-bold text-left text-sm">Elektrikli Arac Nasil Sarj Edilir? -DC Hizli Sarj</div>
+         <div class="text-xs text-left mt-1">Her Telden</div>
+         <div class="flex items-center space-x-2 text-xs mt-1">
+           <div>590 görüntüleme</div>
+           <div class="mb-1 font-bold">.</div>
+           <div>21 saat önce</div>
+         </div>
+       </div>
+
+     </div>
+
+   </div>
+   <div class="mx-auto ml-5 mr-5 mt-8">
+     <img src="https://i.ytimg.com/vi/683kLxTW8dE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCOl8BNCJV1Sr_S6IaFcQzhehNGQ" class="w-72">
+     <div class="mt-3 flex ">
+       <div>
+         <img id="img" class="rounded-full w-9" alt="" width="48" src="https://yt3.ggpht.com/6XyUdt2atfeWKZvL1OoEJYYOKqsJJDvXnz2IoY5uraC1YvoqKu9CTHWOKY58Azx_DLcbj_Y1lA=s68-c-k-c0x00ffffff-no-rj">
+       </div>
+
+       <div class="ml-3">
+         <div class="font-bold text-left text-sm">Elektrikli Arac Nasil Sarj Edilir? -DC Hizli Sarj</div>
+         <div class="text-xs text-left mt-1">Her Telden</div>
+         <div class="flex items-center space-x-2 text-xs mt-1">
+           <div>590 görüntüleme</div>
+           <div class="mb-1 font-bold">.</div>
+           <div>21 saat önce</div>
+         </div>
+       </div>
+
+     </div>
+
+   </div>
+   <div class="mx-auto ml-5 mr-5 mt-8">
+     <img src="https://i.ytimg.com/vi/683kLxTW8dE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCOl8BNCJV1Sr_S6IaFcQzhehNGQ" class="w-72">
+     <div class="mt-3 flex ">
+       <div>
+         <img id="img" class="rounded-full w-9" alt="" width="48" src="https://yt3.ggpht.com/6XyUdt2atfeWKZvL1OoEJYYOKqsJJDvXnz2IoY5uraC1YvoqKu9CTHWOKY58Azx_DLcbj_Y1lA=s68-c-k-c0x00ffffff-no-rj">
+       </div>
+
+       <div class="ml-3">
+         <div class="font-bold text-left text-sm">Elektrikli Arac Nasil Sarj Edilir? -DC Hizli Sarj</div>
+         <div class="text-xs text-left mt-1">Her Telden</div>
+         <div class="flex items-center space-x-2 text-xs mt-1">
+           <div>590 görüntüleme</div>
+           <div class="mb-1 font-bold">.</div>
+           <div>21 saat önce</div>
+         </div>
+       </div>
+
+     </div>
+
+   </div>
+   <div class="mx-auto ml-5 mr-5 mt-8">
+     <img src="https://i.ytimg.com/vi/683kLxTW8dE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCOl8BNCJV1Sr_S6IaFcQzhehNGQ" class="w-72">
+     <div class="mt-3 flex ">
+       <div>
+         <img id="img" class="rounded-full w-9" alt="" width="48" src="https://yt3.ggpht.com/6XyUdt2atfeWKZvL1OoEJYYOKqsJJDvXnz2IoY5uraC1YvoqKu9CTHWOKY58Azx_DLcbj_Y1lA=s68-c-k-c0x00ffffff-no-rj">
+       </div>
+
+       <div class="ml-3">
+         <div class="font-bold text-left text-sm">Elektrikli Arac Nasil Sarj Edilir? -DC Hizli Sarj</div>
+         <div class="text-xs text-left mt-1">Her Telden</div>
+         <div class="flex items-center space-x-2 text-xs mt-1">
+           <div>590 görüntüleme</div>
+           <div class="mb-1 font-bold">.</div>
+           <div>21 saat önce</div>
+         </div>
+       </div>
+
+     </div>
+
+   </div>
+   <div class="mx-auto ml-5 mr-5 mt-8">
+     <img src="https://i.ytimg.com/vi/683kLxTW8dE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCOl8BNCJV1Sr_S6IaFcQzhehNGQ" class="w-72">
+     <div class="mt-3 flex ">
+       <div>
+         <img id="img" class="rounded-full w-9" alt="" width="48" src="https://yt3.ggpht.com/6XyUdt2atfeWKZvL1OoEJYYOKqsJJDvXnz2IoY5uraC1YvoqKu9CTHWOKY58Azx_DLcbj_Y1lA=s68-c-k-c0x00ffffff-no-rj">
+       </div>
+
+       <div class="ml-3">
+         <div class="font-bold text-left text-sm">Elektrikli Arac Nasil Sarj Edilir? -DC Hizli Sarj</div>
+         <div class="text-xs text-left mt-1">Her Telden</div>
+         <div class="flex items-center space-x-2 text-xs mt-1">
+           <div>590 görüntüleme</div>
+           <div class="mb-1 font-bold">.</div>
+           <div>21 saat önce</div>
+         </div>
+       </div>
+
+     </div>
+
+   </div>
+   <div class="mx-auto ml-5 mr-5 mt-8">
+     <img src="https://i.ytimg.com/vi/683kLxTW8dE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCOl8BNCJV1Sr_S6IaFcQzhehNGQ" class="w-72">
+     <div class="mt-3 flex ">
+       <div>
+         <img id="img" class="rounded-full w-9" alt="" width="48" src="https://yt3.ggpht.com/6XyUdt2atfeWKZvL1OoEJYYOKqsJJDvXnz2IoY5uraC1YvoqKu9CTHWOKY58Azx_DLcbj_Y1lA=s68-c-k-c0x00ffffff-no-rj">
+       </div>
+
+       <div class="ml-3">
+         <div class="font-bold text-left text-sm">Elektrikli Arac Nasil Sarj Edilir? -DC Hizli Sarj</div>
+         <div class="text-xs text-left mt-1">Her Telden</div>
+         <div class="flex items-center space-x-2 text-xs mt-1">
+           <div>590 görüntüleme</div>
+           <div class="mb-1 font-bold">.</div>
+           <div>21 saat önce</div>
+         </div>
+       </div>
+
+     </div>
+
+   </div>
+   <div class="mx-auto ml-5 mr-5 mt-8">
+     <img src="https://i.ytimg.com/vi/683kLxTW8dE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCOl8BNCJV1Sr_S6IaFcQzhehNGQ" class="w-72">
+     <div class="mt-3 flex ">
+       <div>
+         <img id="img" class="rounded-full w-9" alt="" width="48" src="https://yt3.ggpht.com/6XyUdt2atfeWKZvL1OoEJYYOKqsJJDvXnz2IoY5uraC1YvoqKu9CTHWOKY58Azx_DLcbj_Y1lA=s68-c-k-c0x00ffffff-no-rj">
+       </div>
+
+       <div class="ml-3">
+         <div class="font-bold text-left text-sm">Elektrikli Arac Nasil Sarj Edilir? -DC Hizli Sarj</div>
+         <div class="text-xs text-left mt-1">Her Telden</div>
+         <div class="flex items-center space-x-2 text-xs mt-1">
+           <div>590 görüntüleme</div>
+           <div class="mb-1 font-bold">.</div>
+           <div>21 saat önce</div>
+         </div>
+       </div>
+
+     </div>
+
+   </div>
+   <div class="mx-auto ml-5 mr-5 mt-8">
+     <img src="https://i.ytimg.com/vi/683kLxTW8dE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCOl8BNCJV1Sr_S6IaFcQzhehNGQ" class="w-72">
+     <div class="mt-3 flex ">
+       <div>
+         <img id="img" class="rounded-full w-9" alt="" width="48" src="https://yt3.ggpht.com/6XyUdt2atfeWKZvL1OoEJYYOKqsJJDvXnz2IoY5uraC1YvoqKu9CTHWOKY58Azx_DLcbj_Y1lA=s68-c-k-c0x00ffffff-no-rj">
+       </div>
+
+       <div class="ml-3">
+         <div class="font-bold text-left text-sm">Elektrikli Arac Nasil Sarj Edilir? -DC Hizli Sarj</div>
+         <div class="text-xs text-left mt-1">Her Telden</div>
+         <div class="flex items-center space-x-2 text-xs mt-1">
+           <div>590 görüntüleme</div>
+           <div class="mb-1 font-bold">.</div>
+           <div>21 saat önce</div>
+         </div>
+       </div>
+
+     </div>
+
+   </div>
+   <div class="mx-auto ml-5 mr-5 mt-8">
+     <img src="https://i.ytimg.com/vi/683kLxTW8dE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCOl8BNCJV1Sr_S6IaFcQzhehNGQ" class="w-72">
+     <div class="mt-3 flex ">
+       <div>
+         <img id="img" class="rounded-full w-9" alt="" width="48" src="https://yt3.ggpht.com/6XyUdt2atfeWKZvL1OoEJYYOKqsJJDvXnz2IoY5uraC1YvoqKu9CTHWOKY58Azx_DLcbj_Y1lA=s68-c-k-c0x00ffffff-no-rj">
+       </div>
+
+       <div class="ml-3">
+         <div class="font-bold text-left text-sm">Elektrikli Arac Nasil Sarj Edilir? -DC Hizli Sarj</div>
+         <div class="text-xs text-left mt-1">Her Telden</div>
+         <div class="flex items-center space-x-2 text-xs mt-1">
+           <div>590 görüntüleme</div>
+           <div class="mb-1 font-bold">.</div>
+           <div>21 saat önce</div>
+         </div>
+       </div>
+
+     </div>
+
+   </div>
 
 
-          </div>
 
 
 
-
-      </div>
-    </div>
-
-
-
-  </div>
+ </div>
 </template>
 
 <script>
